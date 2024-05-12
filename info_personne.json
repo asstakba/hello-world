@@ -1,0 +1,20 @@
+{
+    "prenom": "Javier",
+    "nom": "Garcia",
+    "age": 64,
+    "plats_pref": ["Pâtes bolognaise", "Steak", "Charcuteries"],
+    "animaux": [
+        {
+            "type": "Chien",
+            "nom": "Charlie",
+            "age": 2
+        },
+        {
+            "type": "Chat",
+            "nom": "Biscuit",
+            "age": 1
+        }
+    ],
+    "retraite": true,
+    "occupation": null
+}
